@@ -1,0 +1,31 @@
+{
+  "name": "circuitverse",
+  "version": "1.0.0",
+  "description": "A example rest api for a sample project for circuitverse mobile application",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gat786/circuitverse-sampleapi.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "restify"
+  ],
+  "author": "Ganesh Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gat786/circuitverse-sampleapi/issues"
+  },
+  "homepage": "https://github.com/gat786/circuitverse-sampleapi#readme",
+  "dependencies": {
+    "csv-parse": "^4.8.8",
+    "restify": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
